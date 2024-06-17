@@ -4,17 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp1.Classes
 {
     internal class Veicolo
     {
         string marca;
-        string modello; 
+        string modello;
         int anno;
 
-        public string marca 
+        public string Marca
         {
-            get { return = marca; }
+            get { return marca; }
             set { marca = value; }
         }
     }

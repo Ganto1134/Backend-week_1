@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Epicode\\Backend\\ConsoleApp1\\",
+  "WorkspaceRootPath": "D:\\Epicode\\Backend\\Backedn-week_1\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44B2F9C5-3EBC-4E76-8C73-D14745799399}|ConsoleApp1\\ConsoleApp1.csproj|d:\\epicode\\backend\\consoleapp1\\consoleapp1\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B2F9C5-3EBC-4E76-8C73-D14745799399}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44B2F9C5-3EBC-4E76-8C73-D14745799399}|ConsoleApp1\\ConsoleApp1.csproj|d:\\epicode\\backend\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44B2F9C5-3EBC-4E76-8C73-D14745799399}|ConsoleApp1\\ConsoleApp1.csproj|d:\\epicode\\backend\\backedn-week_1\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44B2F9C5-3EBC-4E76-8C73-D14745799399}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44B2F9C5-3EBC-4E76-8C73-D14745799399}|ConsoleApp1\\ConsoleApp1.csproj|d:\\epicode\\backend\\consoleapp1\\consoleapp1\\dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B2F9C5-3EBC-4E76-8C73-D14745799399}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44B2F9C5-3EBC-4E76-8C73-D14745799399}|ConsoleApp1\\ConsoleApp1.csproj|d:\\epicode\\backend\\backedn-week_1\\consoleapp1\\consoleapp1\\classes\\dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B2F9C5-3EBC-4E76-8C73-D14745799399}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B2F9C5-3EBC-4E76-8C73-D14745799399}|ConsoleApp1\\ConsoleApp1.csproj|d:\\epicode\\backend\\backedn-week_1\\consoleapp1\\consoleapp1\\classes\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B2F9C5-3EBC-4E76-8C73-D14745799399}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B2F9C5-3EBC-4E76-8C73-D14745799399}|ConsoleApp1\\ConsoleApp1.csproj|d:\\epicode\\backend\\backedn-week_1\\consoleapp1\\consoleapp1\\classes\\atleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B2F9C5-3EBC-4E76-8C73-D14745799399}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\atleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B2F9C5-3EBC-4E76-8C73-D14745799399}|ConsoleApp1\\ConsoleApp1.csproj|d:\\epicode\\backend\\backedn-week_1\\consoleapp1\\consoleapp1\\classes\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B2F9C5-3EBC-4E76-8C73-D14745799399}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Animale.cs",
+              "DocumentMoniker": "D:\\Epicode\\Backend\\Backedn-week_1\\ConsoleApp1\\ConsoleApp1\\Classes\\Animale.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Classes\\Animale.cs",
+              "ToolTip": "D:\\Epicode\\Backend\\Backedn-week_1\\ConsoleApp1\\ConsoleApp1\\Classes\\Animale.cs",
+              "RelativeToolTip": "ConsoleApp1\\Classes\\Animale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:47:34.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Atleta.cs",
+              "DocumentMoniker": "D:\\Epicode\\Backend\\Backedn-week_1\\ConsoleApp1\\ConsoleApp1\\Classes\\Atleta.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Classes\\Atleta.cs",
+              "ToolTip": "D:\\Epicode\\Backend\\Backedn-week_1\\ConsoleApp1\\ConsoleApp1\\Classes\\Atleta.cs",
+              "RelativeToolTip": "ConsoleApp1\\Classes\\Atleta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:47:34.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Veicolo.cs",
-              "DocumentMoniker": "D:\\Epicode\\Backend\\ConsoleApp1\\ConsoleApp1\\Veicolo.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Veicolo.cs",
-              "ToolTip": "D:\\Epicode\\Backend\\ConsoleApp1\\ConsoleApp1\\Veicolo.cs",
-              "RelativeToolTip": "ConsoleApp1\\Veicolo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "DocumentMoniker": "D:\\Epicode\\Backend\\Backedn-week_1\\ConsoleApp1\\ConsoleApp1\\Classes\\Veicolo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Classes\\Veicolo.cs",
+              "ToolTip": "D:\\Epicode\\Backend\\Backedn-week_1\\ConsoleApp1\\ConsoleApp1\\Classes\\Veicolo.cs",
+              "RelativeToolTip": "ConsoleApp1\\Classes\\Veicolo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T14:38:50.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Epicode\\Backend\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "D:\\Epicode\\Backend\\Backedn-week_1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "D:\\Epicode\\Backend\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\Epicode\\Backend\\Backedn-week_1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T14:02:06.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Dipendente.cs",
-              "DocumentMoniker": "D:\\Epicode\\Backend\\ConsoleApp1\\ConsoleApp1\\Dipendente.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Dipendente.cs",
-              "ToolTip": "D:\\Epicode\\Backend\\ConsoleApp1\\ConsoleApp1\\Dipendente.cs",
-              "RelativeToolTip": "ConsoleApp1\\Dipendente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAfAAAA",
+              "DocumentMoniker": "D:\\Epicode\\Backend\\Backedn-week_1\\ConsoleApp1\\ConsoleApp1\\Classes\\Dipendente.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Classes\\Dipendente.cs",
+              "ToolTip": "D:\\Epicode\\Backend\\Backedn-week_1\\ConsoleApp1\\ConsoleApp1\\Classes\\Dipendente.cs",
+              "RelativeToolTip": "ConsoleApp1\\Classes\\Dipendente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T14:30:48.679Z",
               "EditorCaption": ""

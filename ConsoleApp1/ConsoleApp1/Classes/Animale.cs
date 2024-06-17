@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp1.Classes
 {
     internal class Animale
     {
@@ -12,9 +12,9 @@ namespace ConsoleApp1
         string nome;
         int età;
 
-        public int specie 
+        public string Specie
         {
-            get { return = specie; }
+            get { return specie; }
             set { specie = value; }
         }
     }

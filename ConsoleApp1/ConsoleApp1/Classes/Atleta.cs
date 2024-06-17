@@ -4,25 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp1.Classes
 {
     internal class Atleta
     {
-        // campi di un'automobile
-        int età;
+        int eta;
         string sport;
         string nome;
         int anniDiCariera;
-        // Proprietà
-        public int età
+        public int Eta
         {
-            // getter
-            get { return età; }
-            // setter
-            set { età = value; }
+            get { return eta; }
+            set { eta = value; }
         }
 
-        public int anniDiCariera
+        public int AnniDiCariera
         {
             get { return anniDiCariera; }
             set { anniDiCariera = value; }

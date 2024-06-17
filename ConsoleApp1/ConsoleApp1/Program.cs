@@ -1,21 +1,23 @@
-﻿namespace ConsoleApp1
+﻿using ConsoleApp1.Classes;
+
+namespace ConsoleApp1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             Atleta a = new Atleta();
-            a.età = 22;
-            Console.WriteLine(a.età);
+            a.Eta = 22;
+            Console.WriteLine(a.Eta);
             Dipendente b = new Dipendente();
-            b.nome = 'Antonio';
-            Console.WriteLine(b.nome);
+            b.Nome = "Antonio";
+            Console.WriteLine(b.Nome);
             Animale c = new Animale();
-            c.specie = 'Cane';
-            Console.WriteLine(c.specie);
+            c.Specie = "Cane";
+            Console.WriteLine(c.Specie);
             Veicolo d = new Veicolo();
-            d.marca = 'Fiat';
-            Console.WriteLine(d.marca);
+            d.Marca = "Fiat";
+            Console.WriteLine(d.Marca);
         }
     }
 }

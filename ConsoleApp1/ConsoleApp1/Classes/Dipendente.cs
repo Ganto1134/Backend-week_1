@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp1.Classes
 {
     internal class Dipendente
     {
@@ -12,15 +12,13 @@ namespace ConsoleApp1
         string posizione;
         double stipendio;
 
-        public string posizione
+        public string Posizione
         {
-            // getter
             get { return posizione; }
-            // setter
             set { posizione = value; }
         }
 
-        public string nome 
+        public string Nome
         {
             get { return nome; }
             set { nome = value; }
