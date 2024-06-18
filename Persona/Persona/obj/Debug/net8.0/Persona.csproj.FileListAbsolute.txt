@@ -1,0 +1,15 @@
+D:\Epicode\Backend\Backedn-week_1\Persona\Persona\bin\Debug\net8.0\Persona.exe
+D:\Epicode\Backend\Backedn-week_1\Persona\Persona\bin\Debug\net8.0\Persona.deps.json
+D:\Epicode\Backend\Backedn-week_1\Persona\Persona\bin\Debug\net8.0\Persona.runtimeconfig.json
+D:\Epicode\Backend\Backedn-week_1\Persona\Persona\bin\Debug\net8.0\Persona.dll
+D:\Epicode\Backend\Backedn-week_1\Persona\Persona\bin\Debug\net8.0\Persona.pdb
+D:\Epicode\Backend\Backedn-week_1\Persona\Persona\obj\Debug\net8.0\Persona.GeneratedMSBuildEditorConfig.editorconfig
+D:\Epicode\Backend\Backedn-week_1\Persona\Persona\obj\Debug\net8.0\Persona.AssemblyInfoInputs.cache
+D:\Epicode\Backend\Backedn-week_1\Persona\Persona\obj\Debug\net8.0\Persona.AssemblyInfo.cs
+D:\Epicode\Backend\Backedn-week_1\Persona\Persona\obj\Debug\net8.0\Persona.csproj.CoreCompileInputs.cache
+D:\Epicode\Backend\Backedn-week_1\Persona\Persona\obj\Debug\net8.0\Persona.sourcelink.json
+D:\Epicode\Backend\Backedn-week_1\Persona\Persona\obj\Debug\net8.0\Persona.dll
+D:\Epicode\Backend\Backedn-week_1\Persona\Persona\obj\Debug\net8.0\refint\Persona.dll
+D:\Epicode\Backend\Backedn-week_1\Persona\Persona\obj\Debug\net8.0\Persona.pdb
+D:\Epicode\Backend\Backedn-week_1\Persona\Persona\obj\Debug\net8.0\Persona.genruntimeconfig.cache
+D:\Epicode\Backend\Backedn-week_1\Persona\Persona\obj\Debug\net8.0\ref\Persona.dll
