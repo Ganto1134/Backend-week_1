@@ -1,0 +1,15 @@
+D:\Epicode\Backend\Backedn-week_1\ContoDay3\ContoDay3\obj\Debug\net8.0\ContoDay3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Epicode\Backend\Backedn-week_1\ContoDay3\ContoDay3\obj\Debug\net8.0\ContoDay3.AssemblyInfoInputs.cache
+D:\Epicode\Backend\Backedn-week_1\ContoDay3\ContoDay3\obj\Debug\net8.0\ContoDay3.AssemblyInfo.cs
+D:\Epicode\Backend\Backedn-week_1\ContoDay3\ContoDay3\obj\Debug\net8.0\ContoDay3.csproj.CoreCompileInputs.cache
+D:\Epicode\Backend\Backedn-week_1\ContoDay3\ContoDay3\obj\Debug\net8.0\ContoDay3.sourcelink.json
+D:\Epicode\Backend\Backedn-week_1\ContoDay3\ContoDay3\bin\Debug\net8.0\ContoDay3.exe
+D:\Epicode\Backend\Backedn-week_1\ContoDay3\ContoDay3\bin\Debug\net8.0\ContoDay3.deps.json
+D:\Epicode\Backend\Backedn-week_1\ContoDay3\ContoDay3\bin\Debug\net8.0\ContoDay3.runtimeconfig.json
+D:\Epicode\Backend\Backedn-week_1\ContoDay3\ContoDay3\bin\Debug\net8.0\ContoDay3.dll
+D:\Epicode\Backend\Backedn-week_1\ContoDay3\ContoDay3\bin\Debug\net8.0\ContoDay3.pdb
+D:\Epicode\Backend\Backedn-week_1\ContoDay3\ContoDay3\obj\Debug\net8.0\ContoDay3.dll
+D:\Epicode\Backend\Backedn-week_1\ContoDay3\ContoDay3\obj\Debug\net8.0\refint\ContoDay3.dll
+D:\Epicode\Backend\Backedn-week_1\ContoDay3\ContoDay3\obj\Debug\net8.0\ContoDay3.pdb
+D:\Epicode\Backend\Backedn-week_1\ContoDay3\ContoDay3\obj\Debug\net8.0\ContoDay3.genruntimeconfig.cache
+D:\Epicode\Backend\Backedn-week_1\ContoDay3\ContoDay3\obj\Debug\net8.0\ref\ContoDay3.dll

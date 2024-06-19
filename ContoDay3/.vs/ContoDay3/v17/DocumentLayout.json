@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Epicode\\Backend\\Backedn-week_1\\ContoDay3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81319389-BC53-4BEC-BC3F-864BB7D728C2}|ContoDay3\\ContoDay3.csproj|d:\\epicode\\backend\\backedn-week_1\\contoday3\\contoday3\\contocorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81319389-BC53-4BEC-BC3F-864BB7D728C2}|ContoDay3\\ContoDay3.csproj|solutionrelative:contoday3\\contocorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81319389-BC53-4BEC-BC3F-864BB7D728C2}|ContoDay3\\ContoDay3.csproj|d:\\epicode\\backend\\backedn-week_1\\contoday3\\contoday3\\calcolosomma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81319389-BC53-4BEC-BC3F-864BB7D728C2}|ContoDay3\\ContoDay3.csproj|solutionrelative:contoday3\\calcolosomma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81319389-BC53-4BEC-BC3F-864BB7D728C2}|ContoDay3\\ContoDay3.csproj|d:\\epicode\\backend\\backedn-week_1\\contoday3\\contoday3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81319389-BC53-4BEC-BC3F-864BB7D728C2}|ContoDay3\\ContoDay3.csproj|solutionrelative:contoday3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81319389-BC53-4BEC-BC3F-864BB7D728C2}|ContoDay3\\ContoDay3.csproj|d:\\epicode\\backend\\backedn-week_1\\contoday3\\contoday3\\ricercanomi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81319389-BC53-4BEC-BC3F-864BB7D728C2}|ContoDay3\\ContoDay3.csproj|solutionrelative:contoday3\\ricercanomi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalcoloSomma.cs",
+              "DocumentMoniker": "D:\\Epicode\\Backend\\Backedn-week_1\\ContoDay3\\ContoDay3\\CalcoloSomma.cs",
+              "RelativeDocumentMoniker": "ContoDay3\\CalcoloSomma.cs",
+              "ToolTip": "D:\\Epicode\\Backend\\Backedn-week_1\\ContoDay3\\ContoDay3\\CalcoloSomma.cs",
+              "RelativeToolTip": "ContoDay3\\CalcoloSomma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:05:11.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RicercaNomi.cs",
+              "DocumentMoniker": "D:\\Epicode\\Backend\\Backedn-week_1\\ContoDay3\\ContoDay3\\RicercaNomi.cs",
+              "RelativeDocumentMoniker": "ContoDay3\\RicercaNomi.cs",
+              "ToolTip": "D:\\Epicode\\Backend\\Backedn-week_1\\ContoDay3\\ContoDay3\\RicercaNomi.cs",
+              "RelativeToolTip": "ContoDay3\\RicercaNomi.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:01:44.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContoCorrente.cs",
+              "DocumentMoniker": "D:\\Epicode\\Backend\\Backedn-week_1\\ContoDay3\\ContoDay3\\ContoCorrente.cs",
+              "RelativeDocumentMoniker": "ContoDay3\\ContoCorrente.cs",
+              "ToolTip": "D:\\Epicode\\Backend\\Backedn-week_1\\ContoDay3\\ContoDay3\\ContoCorrente.cs",
+              "RelativeToolTip": "ContoDay3\\ContoCorrente.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowBMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:57:02.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Epicode\\Backend\\Backedn-week_1\\ContoDay3\\ContoDay3\\Program.cs",
+              "RelativeDocumentMoniker": "ContoDay3\\Program.cs",
+              "ToolTip": "D:\\Epicode\\Backend\\Backedn-week_1\\ContoDay3\\ContoDay3\\Program.cs",
+              "RelativeToolTip": "ContoDay3\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:56:21.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
