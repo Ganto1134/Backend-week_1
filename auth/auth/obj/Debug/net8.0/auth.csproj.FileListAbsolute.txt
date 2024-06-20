@@ -1,0 +1,15 @@
+D:\Epicode\Backend\Backedn-week_1\auth\auth\bin\Debug\net8.0\auth.exe
+D:\Epicode\Backend\Backedn-week_1\auth\auth\bin\Debug\net8.0\auth.deps.json
+D:\Epicode\Backend\Backedn-week_1\auth\auth\bin\Debug\net8.0\auth.runtimeconfig.json
+D:\Epicode\Backend\Backedn-week_1\auth\auth\bin\Debug\net8.0\auth.dll
+D:\Epicode\Backend\Backedn-week_1\auth\auth\bin\Debug\net8.0\auth.pdb
+D:\Epicode\Backend\Backedn-week_1\auth\auth\obj\Debug\net8.0\auth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Epicode\Backend\Backedn-week_1\auth\auth\obj\Debug\net8.0\auth.AssemblyInfoInputs.cache
+D:\Epicode\Backend\Backedn-week_1\auth\auth\obj\Debug\net8.0\auth.AssemblyInfo.cs
+D:\Epicode\Backend\Backedn-week_1\auth\auth\obj\Debug\net8.0\auth.csproj.CoreCompileInputs.cache
+D:\Epicode\Backend\Backedn-week_1\auth\auth\obj\Debug\net8.0\auth.sourcelink.json
+D:\Epicode\Backend\Backedn-week_1\auth\auth\obj\Debug\net8.0\auth.dll
+D:\Epicode\Backend\Backedn-week_1\auth\auth\obj\Debug\net8.0\refint\auth.dll
+D:\Epicode\Backend\Backedn-week_1\auth\auth\obj\Debug\net8.0\auth.pdb
+D:\Epicode\Backend\Backedn-week_1\auth\auth\obj\Debug\net8.0\auth.genruntimeconfig.cache
+D:\Epicode\Backend\Backedn-week_1\auth\auth\obj\Debug\net8.0\ref\auth.dll
